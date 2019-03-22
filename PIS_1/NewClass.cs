@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace PIS_1
 {
-    class EvoKlasa
+    class NewClass
     {
+        static void Main()
+        {
+
+        }
     }
 }
